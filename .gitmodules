@@ -1,0 +1,3 @@
+[submodule "v4l2cxx"]
+	path = v4l2cxx
+	url = https://github.com/narfster/v4l2cxx.git
